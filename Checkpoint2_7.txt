@@ -1,0 +1,11 @@
+view th history of the git repository
+
+git log
+
+If there are outstanding commits to do
+
+git status
+
+Start a new repository
+
+git init
